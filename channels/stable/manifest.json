@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/scanye/ap-connector-public/releases/download/v1.27.0/Scanye.Konektor.Installer.1.27.0.msi",
+  "mandatory": {
+    "mode": "Normal",
+    "value": false,
+    "minVersion": "1.0.0"
+  },
+  "version": "1.27.0",
+  "changelog": "https://github.com/scanye/ap-connector-public/releases/download/v1.27.0/changelog.txt"
+}
